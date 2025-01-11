@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "1039908212694",
+    "project_id": "korpersconrner",
+    "storage_bucket": "korpersconrner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039908212694:android:7d3717df1fe9ea93959e77",
+        "android_client_info": {
+          "package_name": "com.example.dogproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039908212694-m1slq10857fclv75bfhi9g32utnb2got.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9HMRSpoM1c1P7w1gOxunRcMSZbaSOUOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039908212694-m1slq10857fclv75bfhi9g32utnb2got.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039908212694-080hdra6426v25earr27jiioop8po271.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cub.a360.sys.korperconerner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039908212694:android:737383bfee1880b1959e77",
+        "android_client_info": {
+          "package_name": "cub.a360.sys.korperconerner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039908212694-m1slq10857fclv75bfhi9g32utnb2got.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9HMRSpoM1c1P7w1gOxunRcMSZbaSOUOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039908212694-m1slq10857fclv75bfhi9g32utnb2got.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039908212694-080hdra6426v25earr27jiioop8po271.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cub.a360.sys.korperconerner"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4270173416078846~2166593878"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039908212694:android:1887302b23e2384d959e77",
+        "android_client_info": {
+          "package_name": "cub.sys.afroscholarship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039908212694-m1slq10857fclv75bfhi9g32utnb2got.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9HMRSpoM1c1P7w1gOxunRcMSZbaSOUOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039908212694-m1slq10857fclv75bfhi9g32utnb2got.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039908212694-080hdra6426v25earr27jiioop8po271.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cub.a360.sys.korperconerner"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4270173416078846~4078918259"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039908212694:android:1f4786e783daf54e959e77",
+        "android_client_info": {
+          "package_name": "cub.sys.korperscorneradmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039908212694-m1slq10857fclv75bfhi9g32utnb2got.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9HMRSpoM1c1P7w1gOxunRcMSZbaSOUOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039908212694-m1slq10857fclv75bfhi9g32utnb2got.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039908212694-080hdra6426v25earr27jiioop8po271.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cub.a360.sys.korperconerner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
