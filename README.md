@@ -1,6 +1,6 @@
 # dogproject
 
-A new Flutter project.
+Flutter Project built with Flutter bloc package.
 
 ## Getting Started
 
